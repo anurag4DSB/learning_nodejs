@@ -2,7 +2,7 @@ console.log('Starting app');
 
 setTimeout(() => {
   console.log('Inside of callback');
-}, 2000);
+}, 0);
 
 setTimeout(() => {
   console.log('Inside of callback2');
